@@ -20,4 +20,5 @@ Advisory: This is a simple short script and a library, even so this is current a
 Credits
 =========
 QR Code Library website: http://phpqrcode.sourceforge.net/
+
 YOURLS: http://yourls.org/ / https://github.com/YOURLS/YOURLS

@@ -1,0 +1,3 @@
+<FilesMatch "\.(?i:png)$">
+  Header set Content-Disposition attachment
+</FilesMatch>
